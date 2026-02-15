@@ -1,0 +1,86 @@
+[
+  {
+    "question": "On a mini-bus, which phrase should you use to request a stop?",
+    "choices": [
+      {"text": "有落唔該 (Yow lock mm-goy)", "sound": "sound\\Yow lock mm-goy.mp3"},
+      {"text": "唔該 (Mm-goy)", "sound": "sound\\Mm-goy.mp3"},
+      {"text": "快啲啦 (Fie dee laa)", "sound": "sound\\Fie dee laa.mp3"}
+    ],
+    "correct": "有落唔該 (Yow lock mm-goy)",
+    "sound": ""
+  },
+  {
+    "question": "Combine the vocabulary to say: It's very cold today.",
+    "choices": [
+      {"text": "今日好凍 (gum-yart ho doong)", "sound": "sound\\gum-yart ho doong.mp3"},
+      {"text": "好熱今日 (ho yeet gum-yart)", "sound": "sound\\ho yeet gum-yart.mp3"},
+      {"text": "早晨好凍(Joe sun ho doong)", "sound": "sound\\Joe sun ho doong.mp3"}
+    ],
+    "correct": "今日好凍 (gum-yart ho doong)",
+    "sound": ""
+  },
+  {
+    "question": "Choose the closest pronunciation: '呢度有冇人坐?' (Is anyone sitting here?)",
+    "choices": [
+      {"text": "Lee-dough yo no yarn chore?", "sound": ""},
+      {"text": "Lee-dough yow mo yarn chore?", "sound": ""},
+      {"text": "Lee-dough yow mo yorn chore?", "sound": ""}
+    ],
+    "correct": "Lee-dough yow mo yarn chore?",
+    "sound": "sound\\Is anyone sitting here.mp3"
+  },
+  {
+    "question": "Someone asks if you've seen their message. You just read it 2 minutes ago. Which phrase best describes this timing?",
+    "choices": [
+      {"text": "七七八八 (Chutt chutt, bart bart)", "sound": "sound\\Chutt chutt, bart bart.mp3"},
+      {"text": "啱啱 (Arm arm)", "sound": "sound\\Arm arm.mp3"},
+      {"text": "冇問題 (Mo-men-tie)", "sound": "sound\\Mo-men-tie.mp3"}
+    ],
+    "correct": "啱啱 (Arm arm)",
+    "sound": ""
+  },
+  {
+    "question": "Your friend is late for dinner. Which phrase can be used to ask where he/she is?",
+    "choices": [
+      {"text": "你食咗飯未? (nay sick jaw farn may?)", "sound": "sound\\nay sick jaw farn may.mp3"},
+      {"text": "邊度(been doe)", "sound": "sound\\been doe.mp3"},
+      {"text": "幾多錢？(Gay door cheen?)", "sound": "sound\\Gay door cheen.mp3"}
+    ],
+    "correct": "邊度(been doe)",
+    "sound": ""
+  },
+  {
+    "question": "You are asked to decide whether to go out on the weekend, but you need some time to think. Which phrase best describes your response?",
+    "choices": [
+      {"text": "唔該曬 (Mm-goy sigh)", "sound": "sound\\Mm-goy sigh.mp3"},
+      {"text": "冇問題 (Mo-men-tie)", "sound": "sound\\Mo-men-tie.mp3"},
+      {"text": "我諗下先 (Or lum ha seen)", "sound": "sound\\Or lum ha seen.mp3"}
+    ],
+    "correct": "我諗下先 (Or lum ha seen)",
+    "sound": ""
+  },
+  {
+    "question": "If you're rushing to catch an elevator and see someone inside, how do you politely ask them to wait for a moment?",
+    "choices": [
+      {"text": "快啲啦 (Fie dee laa)", "sound": "sound\\Fie dee laa.mp3"},
+      {"text": "多謝 (Door jair)", "sound": "sound\\Door jair.mp3"},
+      {"text": "等等唔該 (Dung dung mm-goy)", "sound": "sound\\Dung dung mm-goy.mp3"}
+    ],
+    "correct": "等等唔該 (Dung dung mm-goy)",
+    "sound": ""
+  },
+  {
+    "question": "Choose the closest pronunciation: '我哋去邊度行街?' (Where do we go shopping?)",
+    "choices": [
+      {"text": "Or day hoy been dough han guy?", "sound": ""},
+      {"text": "Or da hey been dough han guy?", "sound": ""},
+      {"text": "Or day hoy been dough hang gay?", "sound": ""}
+    ],
+    "correct": "Or day hoy been dough han guy?",
+    "sound": "sound\\Where do we go shopping.mp3"
+  }
+]
+
+
+
+

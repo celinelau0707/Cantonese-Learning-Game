@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How do you say 'Good morning'?",
+    "choices": [
+      {"text": "早晨 (Joe sun)", "sound": "sound\\Joe sun.mp3"},
+      {"text": "多謝 (Door jair)", "sound": "sound\\Door jair.mp3"},
+      {"text": "知道 (Jee dough)", "sound": "sound\\Jee dough.mp3"}
+    ],
+    "correct": "早晨 (Joe sun)",
+    "sound": ""
+  },
+  {
+    "question": "What's the appropriate response when someone gives you something?",
+    "choices": [
+      {"text": "得閑 (Duck harn)", "sound": "sound\\Duck harn.mp3"},
+      {"text": "多謝 (Door jair)", "sound": "sound\\Door jair.mp3"},
+      {"text": "好忙 (Ho mong)", "sound": "sound\\Ho mong.mp3"}
+    ],
+    "correct": "多謝 (Door jair)",
+    "sound": ""
+  },
+  {
+    "question": "Someone asks '幾多錢?' What are they asking you?",
+    "choices": [
+      {"text": "How are you?", "sound": ""},
+      {"text": "How much?", "sound": ""},
+      {"text": "How many?", "sound": ""}
+    ],
+    "correct": "How much?",
+    "sound": "sound\\Gay door cheen.mp3"
+  },
+  {
+    "question": "What will someone say when they ask you to watch a movie together?",
+    "choices": [
+      {"text": "打機 (Dar gay)", "sound": "sound\\Dar gay.mp3"},
+      {"text": "買嘢 (My yeah)", "sound": "sound\\My yeah.mp3"},
+      {"text": "睇戲 (Thai hey)", "sound": "sound\\Thai hey.mp3"}
+    ],
+    "correct": "睇戲 (Thai hey)",
+    "sound": ""
+  },
+  {
+    "question": "Choose the closest pronunciation: '食嘢' (eat something)",
+    "choices": [
+      {"text": "sick yeah", "sound": ""},
+      {"text": "kick yeah", "sound": ""},
+      {"text": "sick year", "sound": ""}
+    ],
+    "correct": "sick yeah",
+    "sound": "sound\\sick yeah.mp3"
+  },
+  {
+    "question": "How do you say 'to buy something' in Cantonese?",
+    "choices": [
+      {"text": "遲到 (Chee dough)", "sound": "sound\\Chee dough.mp3"},
+      {"text": "買嘢 (My yeah)", "sound": "sound\\My yeah.mp3"},
+      {"text": "行街 (Han guy)", "sound": "sound\\Han guy.mp3"}
+    ],
+    "correct": "買嘢 (My yeah)",
+    "sound": ""
+  },
+  {
+    "question": "Someone asks '食左飯未?(sick jaw farn may)' What are they asking you?",
+    "choices": [
+      {"text": "How are you?", "sound": ""},
+      {"text": "Is anyone sitting here?", "sound": ""},
+      {"text": "Have you eaten yet?", "sound": ""}
+    ],
+    "correct": "Have you eaten yet?",
+    "sound": "sound\\sick jaw farn may.mp3"
+  },
+  {
+    "question": "Choose the closest pronunciation: '好熱' (so hot)",
+    "choices": [
+      {"text": "ho eat", "sound": ""},
+      {"text": "ha yeet", "sound": ""},
+      {"text": "ho yeet", "sound": ""}
+    ],
+    "correct": "ho yeet",
+    "sound": "sound\\ho yeet.mp3"
+  }
+]

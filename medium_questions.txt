@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Choose the closest pronunciation: '點解' (why)",
+    "choices": [
+      {"text": "Damn guy", "sound": ""},
+      {"text": "Deem guy", "sound": ""},
+      {"text": "Deem gey", "sound": ""}
+    ],
+    "correct": "Deem guy",
+    "sound": "sound\\Deem guy.mp3"
+  },
+  {
+    "question": "What should you say to hurry your friend who is late?",
+    "choices": [
+      {"text": "遲到 (Chee dough)", "sound": "sound\\Chee dough.mp3"},
+      {"text": "快啲啦 (Fie dee laa)", "sound": "sound\\Fie dee laa.mp3"},
+      {"text": "好忙 (Ho mong)", "sound": "sound\\Ho mong.mp3"}
+    ],
+    "correct": "快啲啦 (Fie dee laa)",
+    "sound": ""
+  },
+  {
+    "question": "How do you say 'thank you very much'?",
+    "choices": [
+      {"text": "唔該 (Mm-goy)", "sound": "sound\\Mm-goy.mp3"},
+      {"text": "唔該晒 (Mm-goy sigh)", "sound": "sound\\Mm-goy sigh.mp3"},
+      {"text": "多謝 (Door jair)", "sound": "sound\\Door jair.mp3"}
+    ],
+    "correct": "唔該晒 (Mm-goy sigh)",
+    "sound": ""
+  },
+  {
+    "question": "Complete this sentence and choose the most suitable one: '我____打機'(I have free time to play video games) ",
+    "choices": [
+      {"text": "好忙 (Ho mong)", "sound": "sound\\Ho mong.mp3"},
+      {"text": "遲到 (Chee dough)", "sound": "sound\\Chee dough.mp3"},
+      {"text": "得閑 (Duck harn)", "sound": "sound\\Duck harn.mp3"}
+    ],
+    "correct": "得閑 (Duck harn)",
+    "sound": ""
+  },
+  {
+    "question": "You haven't seen your friend for a while, and then you run into them. What would you ask?",
+    "choices": [
+      {"text": "近排點啊? (Gun pie deem aahh?)", "sound": "sound\\Gun pie deem aahh.mp3"},
+      {"text": "食左飯未? (Sick jaw farn may?)", "sound": "sound\\sick jaw farn may.mp3"},
+      {"text": "呢度有冇人坐? (Lee-dough yow mo yarn chore?)", "sound": "sound\\Is anyone sitting here.mp3"}
+    ],
+    "correct": "近排點啊? (Gun pie deem aahh?)",
+    "sound": ""
+  },
+  {
+    "question": "If you want to ask your friend where to go for lunch, which phrase would you use?",
+    "choices": [
+      {"text": "食嘢 (sick yeah)", "sound": "sound\\sick yeah.mp3"},
+      {"text": "幾多錢? (Gay door cheen?)", "sound": "sound\\Gay door cheen.mp3"},
+      {"text": "去邊度? (Hoy been dough?)", "sound": "sound\\Hoy been dough.mp3"}
+    ],
+    "correct": "去邊度? (Hoy been dough?)",
+    "sound": ""
+  },
+  {
+    "question": "You are nearly finished with your work when your friend asks if you have completed it. What phrase would you use to respond?",
+    "choices": [
+      {"text": "七七八八 (Chutt chutt, bart bart)", "sound": "sound\\Chutt chutt, bart bart.mp3"},
+      {"text": "我諗下先 (Or lum ha seen)", "sound": "sound\\Or lum ha seen.mp3"},
+      {"text": "冇問題 (Mo-men-tie)", "sound": "sound\\Mo-men-tie.mp3"}
+    ],
+    "correct": "七七八八 (Chutt chutt, bart bart)",
+    "sound": ""
+  },
+  {
+    "question": "When someone gives you a gift on your birthday, what would you say?",
+    "choices": [
+      {"text": "多謝 (Door jair)", "sound": "sound\\Door jair.mp3"},
+      {"text": "冇所謂 (Mo sore way)", "sound": "sound\\Mo sore way.mp3"},
+      {"text": "知道 (jee dough)", "sound": "sound\\Jee dough.mp3"}
+    ],
+    "correct": "多謝 (Door jair)",
+    "sound": ""
+  }
+]
